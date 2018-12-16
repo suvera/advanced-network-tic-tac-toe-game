@@ -1,11 +1,12 @@
 #  Advanced tic-tac-toe Like Game
 
-Developed at my B.Tech. graduation time for fun.
+Developed during my B.Tech. graduation time for fun.
 
 
 * **Network based**
 * **Multiplayer game**
 * **Single player - With simple Computer AI**
+* **Chat Support - players can chat during game**
 
 
 ![Game Screen](network_board_game01.png)
