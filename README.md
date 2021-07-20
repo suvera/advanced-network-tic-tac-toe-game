@@ -9,10 +9,10 @@ Developed during my B.Tech. graduation time for fun.
 * **Chat Support - players can chat during game**
 
 
-![Game Screen](network_board_game01.png)
+![Game Screen](https://suvera.github.io/assets/images/network_board_game01.png)
 
 
-![Game Screen Multiplayer](network_board_game02.png)
+![Game Screen Multiplayer](https://suvera.github.io/assets/images/network_board_game02.png)
 
 
 ## Rules
